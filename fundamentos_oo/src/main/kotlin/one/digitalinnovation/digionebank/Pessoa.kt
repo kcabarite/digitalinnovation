@@ -2,7 +2,7 @@ package one.digitalinnovation.digionebank
 
 // Classe Pessoa
 abstract class Pessoa (
-    val name: String,
+    val nome: String,
     val cpf: String
 )
 
